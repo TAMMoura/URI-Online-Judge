@@ -14,6 +14,6 @@ public class Uri1075 {
 				System.out.println(i);
 			}
 		}
+		sc.close();
 	}
-
 }
