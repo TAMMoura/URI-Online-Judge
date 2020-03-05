@@ -12,6 +12,7 @@ public class Uri1078 {
 		for (int i = 1; i < 11; i++) {
 			System.out.println(i + " x " + N + " = " + i * N);
 		}
+		sc.close();
 	}
 
 }
