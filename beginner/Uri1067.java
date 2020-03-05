@@ -13,5 +13,6 @@ public class Uri1067 {
 		for (int i = 1; i <= num; i = i +2) {
 			System.out.println(i);
 		}
+		sc.close();
 	}
 }
