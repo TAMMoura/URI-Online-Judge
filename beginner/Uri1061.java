@@ -14,22 +14,22 @@ public class Uri1061 {
 		boolean bool_h = false, bool_m = false, bool_s = false;
 		
 		string = sc.next();
-		day_i =sc.nextInt();
+		day_i = sc.nextInt();
 		
-		hour_i =sc.nextInt();
-		string =sc.next();
-		minute_i =sc.nextInt();
-		string =sc.next();
+		hour_i = sc.nextInt();
+		string = sc.next();
+		minute_i = sc.nextInt();
+		string = sc.next();
 		second_i =sc.nextInt();
 		
-		string =sc.next();
-		day_f =sc.nextInt();
+		string = sc.next();
+		day_f = sc.nextInt();
 		
-		hour_f =sc.nextInt();
-		string =sc.next();
-		minute_f =sc.nextInt();
-		string =sc.next();
-		second_f =sc.nextInt();
+		hour_f = sc.nextInt();
+		string = sc.next();
+		minute_f = sc.nextInt();
+		string = sc.next();
+		second_f = sc.nextInt();
 
 		if(hour_i > hour_f)
 			bool_h = true;
@@ -78,7 +78,9 @@ public class Uri1061 {
 
 		if(bool_s == true)
 			minute--;
-
+		
+		sc.close();
+		
 		System.out.print(day+" dia(s)\n");
 		System.out.print(hour+" hora(s)\n");
 		System.out.print(minute+" minuto(s)\n");
