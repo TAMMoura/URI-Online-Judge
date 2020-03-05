@@ -16,6 +16,7 @@ public class Uri1070 {
 			System.out.println(num);
 			num = num + 2;
 		}
+		sc.close();
 		System.out.println(num);
 
 	}
