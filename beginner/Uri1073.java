@@ -15,6 +15,7 @@ public class Uri1073 {
 				System.out.println(i + "^2 = " + (i*i));
 
 			}
-		}		
+		}
+		sc.close();
 	}
 }
