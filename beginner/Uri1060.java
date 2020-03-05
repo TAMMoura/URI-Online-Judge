@@ -16,6 +16,7 @@ public class Uri1060 {
 				cont++;
 			}	
 		}
+		sc.close();
 	
 		System.out.printf("%d valores positivos\n", cont);
 	}
