@@ -33,5 +33,6 @@ public class Uri1074 {
 					}
 			}	
 		}
+		sc.close();
 	}
 }
