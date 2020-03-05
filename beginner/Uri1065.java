@@ -15,6 +15,7 @@ public class Uri1065 {
 				count +=1;
 			}
 		}
+		sc.close();
 		System.out.println(count + " valores pares");
 	}
 }
