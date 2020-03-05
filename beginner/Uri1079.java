@@ -19,6 +19,7 @@ public class Uri1079 {
 			System.out.printf("%.1f\n" , result);
 
 		}
+		sc.close();
 	}
 
 }
