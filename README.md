@@ -4,8 +4,8 @@
     </a>
 </div>  
 
-###My solutions for problems from [URI Online Judge](https://www.urionlinejudge.com.br/). 
-####Checkout my profile on URI Online Judge [here](https://www.urionlinejudge.com.br/judge/pt/profile/144878).
+### My solutions for problems from [URI Online Judge](https://www.urionlinejudge.com.br/). 
+#### Checkout my profile on URI Online Judge [here](https://www.urionlinejudge.com.br/judge/pt/profile/144878).
 
 The URI Online Judge is a project that is being developed by the Computer Science Department of URI University. The main goal of the project is to provide programming practice and knowledge sharing. The URI Online Judge contains more than 1,600 problems divided in 9 big categories. This division help the users to focus on specific programming topics. All problems are available in Portuguese and English. The URI Online Judge website also has public contests on a regular basis.
 
