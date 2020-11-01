@@ -72,3 +72,9 @@
 |[1131](https://www.urionlinejudge.com.br/judge/en/problems/view/1131)				|[Uri1131.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1131.java)	| 
 |[1132](https://www.urionlinejudge.com.br/judge/en/problems/view/1132)				|[Uri1132.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1132.java)	| 
 |[1142](https://www.urionlinejudge.com.br/judge/en/problems/view/1142)				|[Uri1142.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1142.java)	| 
+|[1143](https://www.urionlinejudge.com.br/judge/en/problems/view/1143)				|[Uri1113.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1143.java)	| 
+|[1144](https://www.urionlinejudge.com.br/judge/en/problems/view/1144)				|[Uri1114.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1144.java)	| 
+|[1145](https://www.urionlinejudge.com.br/judge/en/problems/view/1145)				|[Uri1115.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1145.java)	|  
+|[1146](https://www.urionlinejudge.com.br/judge/en/problems/view/1146)				|[Uri1116.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1146.java)	| 
+|[1149](https://www.urionlinejudge.com.br/judge/en/problems/view/1149)				|[Uri1117.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1149.java)	| 
+|[1150](https://www.urionlinejudge.com.br/judge/en/problems/view/1150)				|[Uri1118.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1150.java)	| 
