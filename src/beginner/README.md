@@ -1,6 +1,6 @@
-|					Problem					|			Java Solution		|   Clojure Solution |   Python Solution |   PHP Solution |   Javascript Solution
-|:---:|:---:|:---:| :---:| :---:| :---:| 
-|[1000](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)				|[Uri1000.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.java)	| [Uri1000.clj](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.clj)
+|	Problem	|	Java Solution	| Clojure Solution | Python Solution | PHP Solution | Javascript Solution | Dart Solution
+|:---:|:---:|:---:| :---:| :---:| :---:| :---:
+|[1000](https://www.urionlinejudge.com.br/judge/en/problems/view/1000)				|[Uri1000.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.java)	| [Uri1000.clj](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.clj) | [Uri1000.py](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.py) | [Uri1000.php](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.php) | [Uri1000.js](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.js) | [Uri1000.dart](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1000.dart)
 |[1001](https://www.urionlinejudge.com.br/judge/en/problems/view/1001)				|[Uri1001.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1001.java)	| 
 |[1002](https://www.urionlinejudge.com.br/judge/en/problems/view/1002)				|[Uri1002.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1002.java)	| 
 |[1003](https://www.urionlinejudge.com.br/judge/en/problems/view/1003)				|[Uri1003.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1003.java)	| 
