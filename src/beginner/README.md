@@ -50,7 +50,7 @@
 |[1067](https://www.urionlinejudge.com.br/judge/en/problems/view/1067)				|[Uri1067.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1067.java)	| 
 |[1070](https://www.urionlinejudge.com.br/judge/en/problems/view/1070)				|[Uri1070.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1070.java)	|  
 |[1071](https://www.urionlinejudge.com.br/judge/en/problems/view/1071)				|[Uri1071.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1071.java)	| |[Uri1071.py](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1071.py)	|
-|[1072](https://www.urionlinejudge.com.br/judge/en/problems/view/1072)				|[Uri1072.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1072.java)	| 
+|[1072](https://www.urionlinejudge.com.br/judge/en/problems/view/1072)				|[Uri1072.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1072.java)	| |[Uri1072.py](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1072.py)	|
 |[1073](https://www.urionlinejudge.com.br/judge/en/problems/view/1073)				|[Uri1073.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1073.java)	| 
 |[1074](https://www.urionlinejudge.com.br/judge/en/problems/view/1074)				|[Uri1074.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1074.java)	| 
 |[1075](https://www.urionlinejudge.com.br/judge/en/problems/view/1075)				|[Uri1075.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1075.java)	| 
@@ -79,3 +79,5 @@
 |[1146](https://www.urionlinejudge.com.br/judge/en/problems/view/1146)				|[Uri1116.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1146.java)	| 
 |[1149](https://www.urionlinejudge.com.br/judge/en/problems/view/1149)				|[Uri1117.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1149.java)	| 
 |[1150](https://www.urionlinejudge.com.br/judge/en/problems/view/1150)				|[Uri1118.java](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1150.java)	| 
+|[1157](https://www.urionlinejudge.com.br/judge/en/problems/view/1157)				|	| [Uri1157.py](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1157.py)	|
+|[1930](https://www.urionlinejudge.com.br/judge/en/problems/view/1930)				|	| [Uri1930.py](https://github.com/TAMMoura/URI-Online-Judge/blob/master/src/beginner/Uri1930.py)	|
