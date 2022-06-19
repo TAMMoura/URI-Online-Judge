@@ -1,5 +1,5 @@
-(def A (read-string (read-line)))
-(def B (read-string (read-line)))
-(def PROD (* A B))
+(def a (read-string (read-line)))
+(def b (read-string (read-line)))
+(def prod (* a b))
 
-(printf "PROD = %d\n" PROD)
+(printf "PROD = %d\n" prod)
